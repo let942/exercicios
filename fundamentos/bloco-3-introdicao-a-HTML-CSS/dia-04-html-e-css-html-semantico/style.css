@@ -6,6 +6,7 @@
 
 body{
     padding: 10px;
+    /* background-color: rgb(198, 245, 241); */
 }
 
 h2{
@@ -17,13 +18,36 @@ li{
     list-style: none;
 }
 
+article{
+    display: inline-block;
+}
+
+aside{
+    display: inline-block;
+    width: 40%;
+    padding-left: .5rem;
+    margin-left: .5rem;
+    float: right;
+    box-shadow: inset 5px 0 5px -5px #29627e;
+    font-style: italic;
+    color: #29627e;
+}
+
+aside > p{
+    margin: .5rem;
+ 
+}
+
 footer{
     padding: 30px;
 }
 
 
 .cabecalho-pagina{
+    font-size: 30px;
+    text-align: center;
     padding: 10px;
+    border: medium solid rgb(6, 1, 34);
 }
 
 .navegacao li{
