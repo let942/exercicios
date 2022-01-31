@@ -1,9 +1,28 @@
 
 *{
     font-family: 'Supermercado One', monospace, cursive;
+    
+}
+
+body{
+    padding: 10px;
 }
 
 h2{
     /* background-color:violet; */
 
+}
+
+li{
+    list-style: none;
+}
+
+
+.cabecalho-pagina{
+    padding: 10px;
+}
+
+.navegacao li{
+    display: inline-block;
+    padding: 10px;
 }
