@@ -53,4 +53,12 @@ footer{
 .navegacao li{
     display: inline-block;
     padding: 10px;
+    font-size: 25px;
+   
+    
+    
+}
+.navegacao ul{
+    text-align: center;
+    padding: 20px;
 }
