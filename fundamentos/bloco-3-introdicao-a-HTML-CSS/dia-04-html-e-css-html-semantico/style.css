@@ -43,6 +43,14 @@ footer{
     padding: 30px;
 }
 
+tr{
+    padding: 10px;
+}
+td{
+    padding: 5px 12px;
+}
+
+
 
 .cabecalho-pagina{
     font-size: 30px;
@@ -76,10 +84,4 @@ footer{
     margin: 10px;
     padding: 10px;
     text-align: center;
-}
-tr{
-    padding: 10px;
-}
-td{
-    padding: 5px 12px;
 }
