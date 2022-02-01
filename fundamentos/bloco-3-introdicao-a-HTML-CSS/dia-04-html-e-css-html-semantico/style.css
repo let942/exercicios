@@ -68,3 +68,18 @@ footer{
 #soco{
     width: 400px;
 }
+#imagem1{
+    width: 400px;
+}
+
+#table{
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+}
+tr{
+    padding: 10px;
+}
+td{
+    padding: 5px 12px;
+}
